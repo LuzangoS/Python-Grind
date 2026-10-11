@@ -13,7 +13,7 @@ A collection of small programs I'm writing while learning Python from scratch.
 
 Requires Python 3.12 or newer.
 
-    python day1/guessing_game.py
+    python day1/guessing.py
 
 ## Goal
 
