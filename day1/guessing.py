@@ -1,10 +1,13 @@
 import random
 
+
 secret = random.randint(1, 20)
 attempts = 0
 
+# only 5 attempts given
 while attempts < 5:
     guess = int(input("Guess a number between 1 and 20: "))
+    # adds one to attempts each time the user guesses
     attempts += 1
 
     if guess < secret:
