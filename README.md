@@ -8,6 +8,7 @@ A collection of small programs I'm writing while learning Python from scratch.
 | Day | Project | Concepts practiced |
 |-----|---------|--------------------|
 | 1 | [Number Guessing Game](day1/guessing.py) | variables, input(), if/elif/else, while loops, break, loop else |
+| 2 | [Grade Book](day2/gradebook.py) | lists, dictionaries, functions, `return`, loops, empty-list guards |
 
 ## Running a program
 
